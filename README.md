@@ -1,2 +1,0 @@
-# AppWithComponents
-Created with CodeSandbox
